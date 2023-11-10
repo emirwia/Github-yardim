@@ -1,2 +1,2 @@
 # Github-yardim
-s
+.
